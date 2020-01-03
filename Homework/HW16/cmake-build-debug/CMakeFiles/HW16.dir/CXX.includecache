@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/petergeras/CLionProjects/HW16/Queue.cpp
+Queue.h
+/Users/petergeras/CLionProjects/HW16/Queue.h
+
+/Users/petergeras/CLionProjects/HW16/Queue.h
+vector
+-
+
+/Users/petergeras/CLionProjects/HW16/psg2_hw16_q2.cpp
+iostream
+-
+Queue.h
+/Users/petergeras/CLionProjects/HW16/Queue.h
+

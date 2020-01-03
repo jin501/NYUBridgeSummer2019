@@ -1,0 +1,5 @@
+/Users/petergeras/CLionProjects/HW16/cmake-build-debug/CMakeFiles/mar.dir
+/Users/petergeras/CLionProjects/HW16/cmake-build-debug/CMakeFiles/q2.dir
+/Users/petergeras/CLionProjects/HW16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/petergeras/CLionProjects/HW16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petergeras/CLionProjects/HW16/cmake-build-debug/CMakeFiles/q1.dir
